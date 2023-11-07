@@ -8,18 +8,22 @@ const dbUser = [
   {
     id: 10,
     name: "Mahdi",
+    theme: "light"
   },
   {
     id: 1,
     name: "Dimitri",
+    theme: "dark"
   },
   {
     id: 3,
     name: "Manon",
+    theme: "dark"
   },
   {
     id: 4,
     name: "Elea",
+    theme: "dark"
   },
 ];
 const port = 5000;
